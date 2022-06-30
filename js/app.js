@@ -351,12 +351,12 @@ Barba.Pjax.getTransition = function() {
    * Here you can use your own logic!
    * For example you can use different Transition based on the current page or link...
    */
-//   if (FadeTransition.valid()) {
-//     return FadeTransition;
-//   }
-//   else { 
+   if (FadeTransition.valid()) {
+     return FadeTransition;
+   }
+   else { 
     return NormalTransition;
-//   }
+   }
 };
 
 
