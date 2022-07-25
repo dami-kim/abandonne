@@ -356,7 +356,7 @@ Barba.Pjax.getTransition = function() {
    }
    else { 
     return NormalTransition;
-//    }
+   }
 };
 
 
