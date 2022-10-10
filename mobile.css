@@ -416,7 +416,7 @@ nav {
 	border-top: 6.5px solid transparent;
 	border-left: 13px solid gainsboro;
     border-bottom: 6.5px solid transparent;
-    /* margin-left: 5px; */
+    margin-left: 5px;
     display: inline-block;
 }
 
